@@ -1,20 +1,13 @@
 p.p1 {
 	font-size: 30pt;
 	color: red;
-	opacity: 0.5;
+
 	}
 	
 html {
 	text-align: center;
 }
 
-img {
-    margin: 5px;
-    border: 5px;
-	border-style: double;
-	border-color: purple;
-	border-radius: 100px;
-    width: 300px;
 }
 
 hr {
@@ -23,15 +16,34 @@ hr {
 	background-color: purple;
 }
 
-p.h1 {
+h1 {
 	color: white;
 	text-shadow: 3px 2px grey;
 	font-size: 80px;
 }
 
-fieldset
-{
-	background-color:#CCC;
-    opacity: 0.5;
-	filter: alpha(opacity=50);
+table {
+	width:100%;
+	font-size: 30pt;
+	border-spacing: 200px 5px;
+}
+
+img {
+	height:10rem;
+	width:20rem;
+}
+
+td {
+    border: 1px solid white;
+	background-color:white;
+	opacity:0.9;
+	WIDTH:5px;
+	HEIGHT:50px;
+
+}
+
+a {
+	font-size: 15pt;
+	color: red;
+
 }

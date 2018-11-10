@@ -9,4 +9,4 @@ Visita mi Blog en Worldpress:
 https://thedavibur.wordpress.com/
 
 
-![ups!](/imaxes/izuku.png)
+![ups!](/imaxes/Izuku.png)

@@ -1,11 +1,12 @@
 # Mis Trabajos de HTML
 
 ¿Qué contiene este post?
-- pagina de bienvenidos
-- pagina de tarjetas
+- página de bienvenidos
+- página de targetas
+- página de cocteles
 
 Visita mi Blog en Worldpress:
 https://thedavibur.wordpress.com/
 
 
-![ups!](/tokoyami.jpg)
+![ups!](/imaxes/izuku.png)
